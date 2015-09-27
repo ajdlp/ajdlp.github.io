@@ -340,6 +340,15 @@
 				}
 			}
 
+			&.fa-linkedin {
+				background: _palette(linkedin, bg);
+				color: _palette(linkedin, fg);
+
+				&:hover {
+					background: lighten(_palette(linkedin, bg), 4);
+				}
+			}
+
 			&.fa-facebook {
 				background: _palette(facebook, bg);
 				color: _palette(facebook, fg);

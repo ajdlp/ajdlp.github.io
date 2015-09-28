@@ -9,6 +9,18 @@
 
 /* Reset */
 
+	.padding {
+		padding-bottom: 1em !important;
+	}
+
+	.margin {
+		margin-top: -6em;
+	}
+
+	.la {
+		text-align: left;
+	}
+
 	.blogtitle {
 		text-align: center;
 		font-weight: bold;
@@ -1569,8 +1581,8 @@
 		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/overlay.png"), url("http://fotonin.com/data_images/out/13/873595-pretty-forest-wallpaper.jpg");
 		background-position: bottom left, bottom right, top left, top center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
-		background-size: 25em, 25em, auto, cover;	}
-
+		background-size: 25em, 25em, auto, cover;
+}
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
 			-moz-animation: none !important;
 			-webkit-animation: none !important;
@@ -1888,6 +1900,14 @@
 			}
 				.icon.circle.fa-linkedin:hover {
 					background: #459CC9;
+				}
+
+			.icon.circle.fa-envelope {
+				background: #82CA9E;
+				color: #fff;
+			}
+				.icon.circle.fa-envelope:hover {
+					background: #90D0A9;
 				}
 
 			.icon.circle.fa-facebook {
@@ -2637,7 +2657,7 @@
 
 			header.special {
 				padding-top: 5.5em;
-				margin-bottom: 4em;
+				margin-bottom: 1em;
 			}
 
 	}

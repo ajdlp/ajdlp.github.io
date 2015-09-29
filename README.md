@@ -5,6 +5,7 @@ ajdlp.github.io
 ## Domains
 * alexdelapena.me
 * ajdlp.github.io
+
 ## Technology
 * HTML5
 * CSS3
@@ -14,7 +15,7 @@ ajdlp.github.io
 * JS Frameworks
 	- jQuery
 * IconSets
-* [FontAwesome](https://fortawesome.github.io/Font-Awesome/)
+	- [FontAwesome](https://fortawesome.github.io/Font-Awesome/)
 
 ## Contact
 * Homepage: alexdelapena.me

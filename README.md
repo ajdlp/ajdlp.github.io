@@ -3,8 +3,8 @@ ajdlp.github.io
 **ajdlp.github.io** is my personal/portfolio website. 
 
 ## Domains
-* alexdelapena.me
-* ajdlp.github.io
+* [alexdelapena.me](alexdelapena.me)
+* [ajdlp.github.io](ajdlp.github.io)
 
 ## Technology
 * HTML5
@@ -15,11 +15,10 @@ ajdlp.github.io
 * JS frameworks
 	-jQuery
 * IconSets
-* [GitHub Pages](http://pages.github.com/)
-* [FontAwesome](https://fortawesome.github.io/Font-Awesome/robots.txt)
+* [FontAwesome](https://fortawesome.github.io/Font-Awesome/)
 
 ## Contact
-* Homepage: alexdelapena.me
+* Homepage: alexdelapena.me(alexdelapena.me)
 * E-mail: ajdlp12@gmail.com
-* Twitter: [@SpanishPeanut](https://twitter.com/spanishpeanut "twitterhandle on twitter")
+* Twitter: [@Spanish_Peanut](https://twitter.com/spanish_peanut "twitterhandle on twitter")
 * LinkedIn: [AlexDeLaPena](https://linkedin.com/in/alexdelapena)

@@ -4,6 +4,13 @@
 
 /* Reset */
 
+	.profpic {
+		width: 20vw;
+    	height: 20vw;
+    	position: relative;
+    	margin: 0 0 2em 0;
+	}
+
 	.padding {
 		padding-bottom: 1em !important;
 	}

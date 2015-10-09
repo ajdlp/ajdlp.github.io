@@ -20,5 +20,4 @@ ajdlp.github.io
 ## Contact
 * Homepage: alexdelapena.me
 * E-mail: ajdlp12@gmail.com
-* Twitter: [@Spanish_Peanut](https://twitter.com/spanish_peanut "twitterhandle on twitter")
 * LinkedIn: [Alex DeLaPena](https://linkedin.com/in/alexdelapena)

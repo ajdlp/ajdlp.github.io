@@ -6,7 +6,7 @@ ajdlp.github.io
 * alexdelapena.me
 * ajdlp.github.io
 
-## Technology
+## Technologies
 * HTML5
 * CSS3
 	- Sass

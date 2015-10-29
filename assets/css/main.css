@@ -1584,7 +1584,7 @@
 
 	body {
 		background-attachment: scroll, scroll, scroll, fixed;
-		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/overlay.png"), url("images/forest.jpg");
+		background-image: url("images/light-bl.svg"), url("images/light-br.svg"), url("images/forest.jpg"), url("images/overlay.png");
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
 		background-size: 25em, 25em, auto, cover;
 		color: #fff;
